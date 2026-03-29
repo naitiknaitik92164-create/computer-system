@@ -42,8 +42,6 @@ Key Characteristics
     Usage: Historically used for business data processing, scientific research, and industrial process control.
     Modern Mini PCs: Compact, energy-efficient desktops (e.g., nettops) suitable for office work, media playback, and, in some cases, modest gaming. 
 A microcomputer is a compact, affordable computer designed for individual use, featuring a microprocessor as its central processing unit (CPU). These systems, commonly known as personal computers (PCs), laptops, or tablets, integrate memory, input/output, and a CPU on a single chip or circuit board, making them popular for personal, educational, and business tasks. 
-Key Characteristics and Components:
-
     Microprocessor: The core "brain" is a single integrated circuit.
     Compact Size: Designed for desktop or portable use.
     Components: Contains input/output interfaces, memory (RAM), and storage.
@@ -55,3 +53,50 @@ Examples of Microcomputers:
     Portable Devices: Tablets, smartphones, and PDAs.
     Single-Board Computers: Raspberry Pi and Nvidia Jetson.
     Embedded Devices: Smart appliances and IoT devices
+Input devices are important parts of a computer that help us communicate with the system.
+
+    These devices let us send data or commands to the computer, allowing it to process information and perform tasks.
+    Whether it's typing on a keyboard or clicking a mouse, these devices enable us to interact with the computer and accomplish tasks.
+    Input devices are important parts of a computer that help us communicate with the system.
+    Keyboard
+
+Keyboard is the most common and commonly used input device. It allow users to input text and commands.
+
+    It contains different keys for entering letters, numbers, and characters.
+    Supports multiple layouts (e.g., QWERTY, AZERTY).
+    Connects via USB, wireless, or integrated in devices like laptops.
+    Mouse
+
+The mouse is a small handheld device commonly used to point and control the cursor on a computer screen.
+
+    Includes buttons and scroll wheel for clicking, selecting, and navigating.
+    Available in wired, wireless, or optical variants.
+    Used to select, drag, and open files or programs.
+    Works on a flat surface for movement.
+    Scanner
+Web Camera
+
+A webcam is an input device since it records a video image of the scene in front of it. It can either be incorporated inside the computer (for example, a laptop) or connected via USB.
+
+    Connects via USB or built into devices like laptops.
+    Supports video recording and live streaming applications.
+    Known as webcam for its web-based functionality.
+A scanner is a type of input device that works in the same way as a photocopier. It's used when there's data on paper that needs to be transferred to the computer's hard disc for further processing.
+
+    Captures images or text from physical documents.
+    Converts paper-based data into digital format for storage.
+    Enables editing of scanned images before printing.
+    Barcode Reader
+Touchscreen
+
+A touchscreen is a type of input device that allows users to interact with a digital display by directly touching the screen's surface.
+
+    Supports actions like selecting, typing, or drawing.
+    Uses virtual keyboards or gestures for input.
+    Common in smartphones, tablets, and ATMs.
+A barcode reader is a device that reads bar-coded data (data that is represented by light and dark lines). To label things, number books, and so on, bar-coded data is often utilised.
+
+    Extracts information from barcodes on products or labels.
+    Available as handheld scanners or integrated systems.
+    Uses light beams to decode barcode patterns.
+    
